@@ -43,6 +43,25 @@
 			<artifactId>kumo-tokenizers</artifactId>
 			<version>1.17</version>
 		</dependency>
+		
+		<dependency>
+        <groupId>org.apache.spark</groupId>
+        <artifactId>spark-core_2.11</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+
+    <dependency>
+    <!-- Adding mllib dependencies to help with Analytics, ML etc advanced -->
+        <groupId>org.apache.spark</groupId>
+        <artifactId>spark-mllib_2.11</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.spark</groupId>
+        <artifactId>spark-sql_2.11</artifactId>
+        <version>2.0.0</version>
+</dependency>
   
   </dependencies>
   <build>

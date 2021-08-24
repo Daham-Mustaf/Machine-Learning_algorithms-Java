@@ -18,6 +18,7 @@ public class ClustringTest {
 	}
 
 	public static void main(String[] args) throws Exception {
+		
 		/**
 		 * Loading the data
 		 */
