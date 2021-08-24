@@ -126,7 +126,7 @@ public class DBSCANClusterDemo {
 				List<DoublePoint> points = result.getPoints();
 				System.out.println(points.size());
 				// TODO do something with the points in each cluster
-				System.out.println(points);
+			//	System.out.println(points);
 
 			}
 		}
