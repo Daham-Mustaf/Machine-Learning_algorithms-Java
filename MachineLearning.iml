@@ -52,7 +52,6 @@
     <orderEntry type="library" name="Maven: com.kennycason:kumo-core:1.17" level="project" />
     <orderEntry type="library" name="Maven: com.kennycason:kumo-api:1.17" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
     <orderEntry type="library" name="Maven: com.github.davidmoten:rtree:0.8.6" level="project" />
     <orderEntry type="library" name="Maven: com.github.davidmoten:guava-mini:0.1.1" level="project" />
@@ -211,5 +210,6 @@
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-hadoop:1.7.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-format:2.3.0-incubating" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-jackson:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
   </component>
 </module>

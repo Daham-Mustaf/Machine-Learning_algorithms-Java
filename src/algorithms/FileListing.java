@@ -8,7 +8,7 @@ import org.apache.commons.io.filefilter.TrueFileFilter;
 public class FileListing {
 	public static void main(String[] args) {
 		FileListing fileListing = new FileListing();
-		fileListing.listFiles("Path for the root directory here");
+		fileListing.listFiles("/Users/m-store/eclipse-workspace/MachineLearning");
 	}
 
 	public void listFiles(String rootDir) {
